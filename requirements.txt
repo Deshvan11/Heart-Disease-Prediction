@@ -3,7 +3,7 @@ pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
 joblib==1.4.2
-streamlit-lottie>=0.2.7
+streamlit-lottie>=0.0.5# the Lottie animations version works or python 3.7+ only is 0
 requests
 plotly
 rich>=13.0.0,<15.0.0
